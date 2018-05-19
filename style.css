@@ -35,7 +35,11 @@ header.startup h3{
   border-radius: 300px;
   font-family: 'Skranji', sans-serif;
 }
+.button {
+  position: center
+}
 
+}
 .btn-lx {
   padding: 1rem 2rem;
 }
