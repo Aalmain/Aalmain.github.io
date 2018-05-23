@@ -2,18 +2,20 @@ html,body {
   height:100%;
   width: 100%;
 }
+
 body{
   font-family: 'Skranji', sans-serif;
 }
+
 hr {
   max-width: 65px;
   border-width: 3px;
-
 }
 
 .faded{
   color: rgba(255,255,255,1);
 }
+
 header.startup{
   background-image: url("https://i1.wp.com/nerdarchy.com/wp-content/uploads/2017/04/magicald20.jpg?fit=1920%2C1080&ssl=1");
   background-repeat: no-repeat;
@@ -21,14 +23,17 @@ header.startup{
   background-attachment: fixed;
   height: 100%;
 }
+
 header.startup hr {
   margin-top: 650px;
   margin-bottom: 5px;
 }
+
 header.startup h3{
   font-size: 2.5rem;
 
 }
+
 .btn {
   font-weight: 700;
   text-transform: uppercase;
@@ -36,7 +41,6 @@ header.startup h3{
   font-family: 'Skranji', sans-serif;
 }
 
-}
 .btn-lx {
   padding: 1rem 2rem;
 }
@@ -45,6 +49,7 @@ header.startup h3{
   background-color: #f44242;
   border-color: #f44242;
 }
+
 .btn-primary:hover {
   background-color: #F05F44;
   border-color: #F05F44;
