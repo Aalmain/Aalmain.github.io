@@ -56,3 +56,12 @@ header.startup h3{
   border-width: 5px;
   cursor: pointer;
 }
+.btn-primary:active {
+  box-shadow: none;
+  background-color: #f44242;
+  border-color: #f44242;
+}
+.btn-primary:active:focus {
+  background-color: #f44242;
+  border-color: #f44242;
+}
